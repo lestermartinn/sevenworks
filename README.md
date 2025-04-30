@@ -10,6 +10,9 @@ SevenWorks is a modern, real-time resume builder built with Next.js, Firebase, a
 - User authentication (Firebase Auth)
 - Responsive, modern UI
 
+## Video Demo
+https://www.youtube.com/watch?v=ybUhvRTBgKY
+
 ## Getting Started
 
 ### Prerequisites
